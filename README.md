@@ -42,7 +42,7 @@ HiveLoop is a **multi-agent execution pattern** that enables:
 
 ```bash
 # Clone or download HiveLoop
-git clone https://github.com/yourorg/hiveloop.git
+git clone https://github.com/mirrorfolio-idea-labs/hiveLoop.git
 
 # Copy templates to your project
 cp -r hiveloop/templates/* your-project/.hiveloop/
